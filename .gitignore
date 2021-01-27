@@ -1,2 +1,5 @@
 # For Java 
 *.class
+
+# For C/C++
+*.exe
