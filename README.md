@@ -16,7 +16,8 @@ To run the HelloWorld.java file in the terminal type:
 To run the hello_world.py file in the terminal type:
 
 - python hello_world.py
-  > **Note**: if you're on a linux system type python3 instead of python
+
+> **Note**: if you're on a linux system type python3 instead of python
 
 ## Ruby
 
