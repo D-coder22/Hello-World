@@ -39,3 +39,11 @@ To run the hello_world.cpp file in the terminal type:
 
 - g++ -o hello_world hello_world.cpp
 - hello_world
+
+## JavaScript
+
+To run the hello_world.js file in the terminal type:
+
+> Make sure you have NodeJs installed if not install it from [here](https://nodejs.org/en/)
+
+- node hello_world.js
