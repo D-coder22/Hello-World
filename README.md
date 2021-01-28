@@ -47,3 +47,12 @@ To run the hello_world.js file in the terminal type:
 > Make sure you have NodeJs installed if not install it from [here](https://nodejs.org/en/)
 
 - node hello_world.js
+
+## C#
+
+To run the HelloWorld.cs file in the terminal type:
+
+> Make sure you have NodeJs installed if not install it from [here](https://nodejs.org/en/)
+
+- csc HelloWorld.cs
+- HelloWorld.exe
