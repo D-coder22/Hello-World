@@ -1,6 +1,6 @@
 # Hello-World
 
-This is something I made for fun, it has samples of different Programming Languages I've learned over the years, in the traditional form of a **Hello World**.
+This is something I made for fun, it has samples of different Programming/Scripting Languages I've learned over the years, in the traditional form of a **Hello World**.
 Might add more such files in the future.
 
 ## Java
